@@ -1,6 +1,6 @@
-path: ../content/train  # dataset root dir
-train: /content/train/images  # train images (relative to 'path') 118287 images
-val: /content/train/images  # val images (relative to 'path') 5000 images
+path: ../kaggle/working/train  # dataset root dir
+train: /kaggle/working/train/images  # train images (relative to 'path') 118287 images
+val: /kaggle/working/train/images  # val images (relative to 'path') 5000 images
 #test:/content/drive/MyDrive/ultralytics/test/images
 # Classes
 nc: 9
